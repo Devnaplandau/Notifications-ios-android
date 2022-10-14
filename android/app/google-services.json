@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "50029446516",
+    "project_id": "news-30800",
+    "storage_bucket": "news-30800.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50029446516:android:d46c67ecbe2705774ad821",
+        "android_client_info": {
+          "package_name": "com.teknix.hobbitsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50029446516-dj41npl7l6o9ruacctivhk5fj5t6gdrh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teknix.hobbitsocial",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "50029446516-id4robaub9449cb3f858bodfqb7hue3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpWZcdrTBYa2rVwcYSo7gdGwXNUMLHpqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50029446516-id4robaub9449cb3f858bodfqb7hue3f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "50029446516-iq96cusma14tjmbpma3it13qc057h5lv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.teknix.hobbitsocial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
